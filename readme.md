@@ -101,3 +101,7 @@ xversion.stop()
 ### xversion update
 
 更新 [**目录**|**PKG**|**tag**] 
+
+### xversion make
+
+生成 [remote|local].xversion 文件
